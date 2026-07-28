@@ -1,0 +1,14 @@
+{
+  "class_names": [
+    "fresh_orange",
+    "rotten_orange"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "threshold": 0.5,
+  "minimum_confidence": 0.75,
+  "model_name": "MobileNetV3Small transfer learning",
+  "positive_class": "rotten_orange"
+}
